@@ -1,4 +1,4 @@
-# Social Media Dashboard (MERN + Socket.IO + Redis)
+# Social Media Dashboard 
 Profiles with media uploads, real-time chat, likes/comments/follows, engagement analytics, Redis-backed notifications.
 
 ## Run
